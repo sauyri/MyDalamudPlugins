@@ -25,11 +25,11 @@
         "RepoUrl": "https://github.com/sauyri/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/sauyri/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/sauyri/MyDalamudPlugins/raw/main/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/sauyri/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/sauyri/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/sauyri/MyDalamudPlugins/raw/main/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/sauyri/MyDalamudPlugins/raw/main/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1626301625"
     }
